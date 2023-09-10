@@ -30,6 +30,7 @@ def get_info():
 	"utc_time": utc_time,
 	"track": track,
 	"github_file_url": github_file_url,
+	"github_repo_url": github_repo_url,
 	"status_code": 200
 }
 
